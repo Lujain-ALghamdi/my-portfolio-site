@@ -1,7 +1,7 @@
-# My-portfolio-site
 # Lujain Alghamdi Portfolio
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, and contact information in a clean and interactive design with a starry night and floating hearts theme, it is designed to be responsive, visually appealing, and interactive with animations of stars, clouds, and floating hearts.
+
 
 ## 🌟 About the Website
 This website presents:
@@ -10,6 +10,7 @@ This website presents:
 - **Skills**
 - **Projects**
 - **Contact**
+
  
 ## 🛠️ Technologies Used
 - **Front-End**:
