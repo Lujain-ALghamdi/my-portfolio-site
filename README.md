@@ -13,7 +13,6 @@ This website presents:
 
  
 ## 🛠️ Technologies Used
-- **Front-End**:
   - HTML
   - CSS
   - JavaScript
